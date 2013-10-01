@@ -2,7 +2,10 @@
 	"auto_upgrade_last_run": 1324484067,
 	"installed_packages":
 	[
+		"CMake",
 		"Package Control",
-		"SublimeLinter"
+		"RPM Spec Syntax",
+		"SublimeLinter",
+		"Wombat Theme"
 	]
 }

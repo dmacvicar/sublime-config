@@ -1,0 +1,13 @@
+{
+	"color_scheme": "Packages/Wombat Theme/Wombat.tmTheme",
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"theme": "Wombat.sublime-theme",
+	"wombat_color_blue": true,
+	"wombat_dirty_bottom_bar_blue": true,
+  "translate_tabs_to_spaces": true,
+  "font_face": "Consolas",
+  "font_size": 13
+}
